@@ -35,25 +35,25 @@ Case 2: 75
 Case 3: 86
 
 ## 1
-__Time limit: 2 seconds
+__Time limit: 2 seconds__
 
-1 <= T <= 1000
+__1 <= T <= 1000__
 
-1 <= B <= E <= 100__
+__1 <= B <= E <= 100__
 
 ## 2
-__Time limit: 2 seconds
+__Time limit: 2 seconds__
 
-1<=T<=100000
+__1<=T<=100000__
 
-1<=B<=E<=100000__
+__1<=B<=E<=100000__
 
 ## 3
-__Time limit: 2 seconds
+__Time limit: 2 seconds__
 
-1<=T<=100000
+__1<=T<=100000__
 
-1<=B<=E<=1000000000000000__
+__1<=B<=E<=1000000000000000__
 
 
 
