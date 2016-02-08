@@ -18,16 +18,16 @@ _NHSPC (National High School Programming Contest)_
 
 ### নমুনা ইনপুট (Sample Input):
 
-3
+'''3
 1 3
 10 15
-20 23
+20 23'''
 
 ### নমুনা আউটপুট (Sample Output):
 
-Case 1: 6
+'''Case 1: 6
 Case 2: 75
-Case 3: 86
+Case 3: 86'''
 
 ## 1
 __Time limit: 2 seconds
