@@ -36,17 +36,23 @@ Case 3: 86
 
 ## 1
 __Time limit: 2 seconds
+
 1 <= T <= 1000
+
 1 <= B <= E <= 100__
 
 ## 2
 __Time limit: 2 seconds
+
 1<=T<=100000
+
 1<=B<=E<=100000__
 
 ## 3
 __Time limit: 2 seconds
+
 1<=T<=100000
+
 1<=B<=E<=1000000000000000__
 
 
